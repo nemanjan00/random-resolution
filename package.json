@@ -1,6 +1,6 @@
 {
   "name": "random-resolution",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Random resolution generator",
   "main": "index.js",
   "repository": "git@github.com:nemanjan00/random-resolution.git",
