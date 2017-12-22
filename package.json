@@ -1,0 +1,10 @@
+{
+  "name": "random-resolution",
+  "version": "0.0.0",
+  "description": "Random resolution generator",
+  "main": "index.js",
+  "repository": "git@github.com:nemanjan00/random-resolution.git",
+  "author": "nemanjan00",
+  "license": "MIT",
+  "private": false
+}
